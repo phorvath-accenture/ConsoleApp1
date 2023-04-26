@@ -1,0 +1,9 @@
+{
+	"name": "adf-github-test",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aab58f0a-5363-40e2-ba08-08ae19d69517",
+		"tenantId": "b9ccd649-f6e7-4b13-85e2-e766d61456d6"
+	}
+}
